@@ -1,4 +1,4 @@
-# ELEC5200
+# ELEC5200 - Computer Architecture
 
 This is the CPU I designed in Auburn University's ELEC 5200 (Computer Architecture) Course in Spring of 2021.
 It is a Singlecycle 16-bit RISC-V CPU with 16 registers.
